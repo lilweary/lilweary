@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lilweary
 - 👀 I’m interested in everything ADAS
 - 🌱 I’m currently learning Controls and Robotics with ROS
-- 💞️ I’m looking to collaborate on Sensor Libraries
+- 💞️ I’m looking to collaborate on Design integrgration for Sensor Drivers
 - 📫 How to reach me at rmallavarapu@unibz.it
 
 <!---
